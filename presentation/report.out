@@ -1,0 +1,13 @@
+\BOOKMARK [2][]{Outline0.1}{Objective}{}% 1
+\BOOKMARK [2][]{Outline0.2}{Datasets}{}% 2
+\BOOKMARK [3][]{Outline0.2.1.4}{MNIST}{Outline0.2}% 3
+\BOOKMARK [3][]{Outline0.2.2.5}{CIFAR}{Outline0.2}% 4
+\BOOKMARK [2][]{Outline0.3}{Framework}{}% 5
+\BOOKMARK [3][]{Outline0.3.1.6}{Denoising Autoencoder}{Outline0.3}% 6
+\BOOKMARK [3][]{Outline0.3.2.7}{Softmax}{Outline0.3}% 7
+\BOOKMARK [3][]{Outline0.3.3.8}{Stacked Denoising Autoencoders}{Outline0.3}% 8
+\BOOKMARK [2][]{Outline0.4}{Algorithms}{}% 9
+\BOOKMARK [3][]{Outline0.4.1.9}{First Order Algorithm}{Outline0.4}% 10
+\BOOKMARK [3][]{Outline0.4.2.12}{Methods Details}{Outline0.4}% 11
+\BOOKMARK [2][]{Outline0.5}{Experiment \046 Result}{}% 12
+\BOOKMARK [2][]{Outline0.6}{Conclusion}{}% 13
